@@ -36,7 +36,26 @@ echo $count_pages->publish;
         <div style="width: 300px; height: 250px; background-color: #ccc; padding: 1px;"> 
 
 
-<script>(new Image()).src = (location.protocol == "https:"?"https:":"http:") + "//ad.doubleclick.net/N9011/ad/DiarioNocturno/impr_1x1_homecenter_febr14;sz=1x1;ord=[timestamp]?"</script><script src="http://supercore.s3.amazonaws.com/adman_expandable_buoy.js"></script><div id="adm-xpand-player-holder" style="width: 300px; height: 250px;" data-adm-xpd-width="300" data-adm-xpd-height="250" data-adm-xpd-src="http://supercore.adm-vids.com/video_offer?pmu=f6cf26ab&pmo=91275411&pmb=a608c3b3&size=0&expandable=true&loop=true&autostart=true&mute=true&lang=es&dat=http%253A%252F%252Fad.doubleclick.net%252FN9011%252Fad%252FDiarioNocturno%252Fconv_1x1_homecenter_febr14%253Bsz%253D1x1%253Bord%253D%255Btimestamp%255D%253F" data-adm-xpd-max-width="600" data-adm-xpd-max-height="465"></div>
+<script type="text/javascript"><!--
+
+google_ad_client = "ca-pub-3717282600397593";
+
+/* Segunda columna a 300 */
+
+google_ad_slot = "7427498395";
+
+google_ad_width = 300;
+
+google_ad_height = 250;
+
+//-->
+
+</script> 
+          <script type="text/javascript"
+
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script> 
 
 
         </div>
