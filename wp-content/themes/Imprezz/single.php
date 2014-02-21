@@ -161,7 +161,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 
 
-
+<script type="text/javascript" src="http://www.reddit.com/static/button/button1.js"></script>
 
 
 <?php the_content('<p class="serif">Leer el resto...</p>'); ?>
